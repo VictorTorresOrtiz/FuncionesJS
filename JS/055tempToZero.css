@@ -1,0 +1,11 @@
+body { 
+    font-family: Arial;
+    color:red;
+}
+#container { 
+    width:400px;
+    margin:auto;
+}
+h1 { 
+    font-size:6em;
+}
