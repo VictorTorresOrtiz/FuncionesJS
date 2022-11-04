@@ -9,4 +9,4 @@ function checkAge(age) {
     }
   }
 
-  //Si, ya que no saltaria el return  
+  //Si no se cumple la ejecucion continua y devuelve el return con el comentario es decir en este caso no hace falta que pase por el else
